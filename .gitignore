@@ -1,0 +1,22 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+.idea/
+*.iml
+.mvn/wrapper/maven-wrapper.jar
+out/
+gen/
+
+# Docker / OS
+.DS_Store
+Thumbs.db
+
+# Angular (para cuando lo creemos)
+dist/
+node_modules/
+.angular/
